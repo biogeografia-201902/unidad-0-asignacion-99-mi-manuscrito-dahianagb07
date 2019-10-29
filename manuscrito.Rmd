@@ -7,8 +7,8 @@ output:
     latex_engine: pdflatex
     template: svm-latex-ms.tex
     number_sections: true
-title: | 
-        | Hormigas UASD
+title: | Hormigas UASD
+         
 author:
 - name: Dahiana Guzmán Báez
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
@@ -30,7 +30,10 @@ header-includes:
 
 # Introducción
 
-Las hormigas juegan un rol muy importante en el desarrollo de los ambientes urbanos, estas pueden afectar de manera directa o indirecta a muchos de lo seres vivos, como plantas y animales. Estas afecciones pueden ser picaduras o mordeduras estas introduccen ácido fórmico en el cuerpo de algunos animales causandole alergia.También dañan edificaciones, alimentos, jardines y algunas pueden ser vectores de agentes infecciosos [@klotz2008urban; @robinson1996urban; @robinson2005urban].
+Las hormigas juegan un rol muy importante en el desarrollo de los ambientes urbanos, estas pueden afectar de manera directa o indirecta a muchos de lo seres vivos, como plantas y animales. Estas afecciones pueden ser picaduras o mordeduras estas introduccen ácido fórmico en el cuerpo de algunos animales causandole alergia. También dañan edificaciones, alimentos, jardines y algunas pueden ser vectores de agentes infecciosos [@klotz2008urban; @robinson1996urban; @robinson2005urban].
+
+En la hispaniola existen 43 géneros y 147 especies @AntWiki
+
 
 
 
