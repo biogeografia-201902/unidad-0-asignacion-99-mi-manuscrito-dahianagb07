@@ -62,11 +62,13 @@ Los nidos de hormigas y su modo de distribución en el espacio nos dan informaci
 El trabajo se realizó en el campo de la Universidad Autonoma de Santo Domingo (UASD) (18º 27´ 40´´ N, 69º 55´ 02´´ W). Tiene un área aproximada de 375, 000 m². Limita al norte con la Av. José Contreras, al sur con la Av. Correa y Cidrón, al este con la Av. Santo Tomás de Aquino, y al oeste con la calle General Modesto Diaz. Posee una temperatura promedio anual de 25.7 ℃. Eligimos está área porque tiene un fácil acceso y por poseer diferentes tipos de sustratos o coberturas como herbaceos, dosel, construido, edificados, no edificado ni cubierto, entre otros. Además en esta área existe una gran diversidad de hormigas.
 
 
+
 *Métodos*
 Se seleccionarion un total de 11 parcelas establecidas para el campo de la UASD con diferentes tipos de coberturas, construido, mobiliario, suelo, herbáceos, no edificado ni cubierto. Los muestreos fueron realizados desde el día 12 al 26 de octubre del año 2019. 
 
 
 Los materiales de campo fueron: frascos. alcohol etílico al 80%, pinceles de cerdas claras y confortable, papel vegetal para las etiquetas, chinográfo, dispositivo Android para llenar los formulario de ODK Collect. ODK es un conjuntos de herramientas de código libre que crea formularios para poder recoger los datos eb un dispositivo móvil y enviarlos a un servido.
+
 
 
 Como se menciono anteriormente esta investigación se basó en la ecología de nidos. Para realizar la coleccón de datos se hizo un censo detallado de nido en cada parcela, tomando datos dentro de la cobertura que le corresponde a la parcela elegida. Luego se toman las coordenas de cada nido, información ambiental y relación de flora asociada al nido. 
