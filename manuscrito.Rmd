@@ -12,7 +12,7 @@ author:
 - name: Dahiana Guzmán Báez
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
 abstract: "Mi resumen"
-keywords: "palabra clave 1, palabra clave 2"
+keywords: "Ecología, nidos"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
 fontfamily: mathpazo
@@ -25,28 +25,56 @@ header-includes:
   \usepackage{pdflscape}
   \newcommand{\blandscape}{\begin{landscape}}
   \newcommand{\elandscape}{\end{landscape}}
+editor_options: 
+  chunk_output_type: console
 ---
 
 # Introducción
 
 Las hormigas juegan un rol muy importante en el desarrollo de los ambientes urbanos, estas pueden afectar de manera directa o indirecta a muchos de lo seres vivos, como plantas y animales. Estas afecciones pueden ser picaduras o mordeduras estas introduccen ácido fórmico en el cuerpo de algunos animales causandole alergia. También dañan edificaciones, alimentos, jardines y algunas pueden ser vectores de agentes infecciosos [@klotz2008urban; @robinson1996urban; @robinson2005urban].
 
-En la hispaniola existen 43 géneros y 147 especies @AntWiki.
+
+Las hormigas pertenecen al reino Animalia, filo Arthropoda, clase Insecta, orden Hymenoptera y se distinguen de los demas animales por por pertener a una única familia Formicidae. Se conocen alrededor de 12,000 a 20,000 especies de hormigas en el mundo, estas son clasificadas en subfamilias [@chacon2008aspectos]. En la hispaniola existen  43 géneros y 147 especies [@AntWiki].
 
 
-Mis preguntas de investigación son las siguientes:
+Las hormigas son seres vivos muy peculiares y apesar de esto se reunen en grupos de especies a los cuales se le llaman gremios, cada gremio comparten similitudes diferentes, como aspectos de su biología, preferencia de hábitats y nichos; ejemplo de un gremio que ocupa de forma exclusiva un nicho son las cultivadoras de hongos, todas las hormigas de la tribu Attini [@chacon2008aspectos].
 
-¿Cuál es la distribución espacial entre los nidos edificado y pavimentado que superan los 5 metros de distancia?
 
-¿Influye el transito de humanos en la diversidad de hormigas?
+En esta investigación tomamos en cuenta la Ecología de nidos en la Universidad Autonoma de Santo Dominingo. El nido es la parte fundamental de la sociedad de hormigas. Cerca del 80-90% de los miembros de una colonia pertenecen en el nido [@petal1978role]. La arquitectura de los nidos es muy variada, todo depende las especies que habiten en el nido. Existen generos de hormigas que habitan ante todo en el suelo, hojarasca, troncos o incluso en otros animales, por ejemplo Wasmannia auropunctata y Paratrechina fulva [@armbrecht2003little, @zenner1990biological].
 
-¿Existe diferencia significativa en la densidad de nidos entre distintos sustratos?
 
-¿Qué tanto recambio de especies existe entre nidos de sustratos herbáceos o áreas contruidas?
+La ubicación de los nidos depende de los factores ambientales como temperatura y humedad, también depende de la facilidad de reclutamiento de alimentos para poder sobrevivir y reproducirse exitosamente @bernstein1979partitioning. 
+
+Los nidos de hormigas y su modo de distribución en el espacio nos dan información complementaría en el estudio de la comunidad en si. Por esa razón para realizar esta investigación se tomaron en cuenta las siguientes preguntas:
+
+1- ¿Cuál es la distribución espacial entre los nidos edificado y pavimentado que superan los 5 metros de distancia?
+
+2- ¿Influye el transito de humanos en la diversidad de hormigas?
+
+3- ¿Existe diferencia significativa en la densidad de nidos entre distintos sustratos?
+
+4- ¿Qué tanto recambio de especies existe entre nidos de sustratos herbáceos o áreas contruidas?
 
 # Metodología
 
-\ldots
+*Área de Estudio*
+
+El trabajo se realizó en el campo de la Universidad Autonoma de Santo Domingo (UASD) (18º 27´ 40´´ N, 69º 55´ 02´´ W). Tiene un área aproximada de 375, 000 m². Limita al norte con la Av. José Contreras, al sur con la Av. Correa y Cidrón, al este con la Av. Santo Tomás de Aquino, y al oeste con la calle General Modesto Diaz. Posee una temperatura promedio anual de 25.7 ℃. Eligimos está área porque tiene un fácil acceso y por poseer diferentes tipos de sustratos o coberturas como herbaceos, dosel, construido, edificados, no edificado ni cubierto, entre otros. Además en esta área existe una gran diversidad de hormigas.
+
+
+*Métodos*
+Se seleccionarion un total de 11 parcelas establecidas para el campo de la UASD con diferentes tipos de coberturas, construido, mobiliario, suelo, herbáceos, no edificado ni cubierto. Los muestreos fueron realizados desde el día 12 al 26 de octubre del año 2019. 
+
+
+Los materiales de campo fueron: frascos. alcohol etílico al 80%, pinceles de cerdas claras y confortable, papel vegetal para las etiquetas, chinográfo, dispositivo Android para llenar los formulario de ODK Collect. ODK es un conjuntos de herramientas de código libre que crea formularios para poder recoger los datos eb un dispositivo móvil y enviarlos a un servido.
+
+
+Como se menciono anteriormente esta investigación se basó en la ecología de nidos. Para realizar la coleccón de datos se hizo un censo detallado de nido en cada parcela, tomando datos dentro de la cobertura que le corresponde a la parcela elegida. Luego se toman las coordenas de cada nido, información ambiental y relación de flora asociada al nido. 
+
+En cada nido se colecto de 5 a 8 individuos, para hacerlo utilizamos un pincel humedicido con alcohol etílico al 80%, luego cada individuo de un mismo nido se deposito en un mismo frasco, es decir. Se utilizo un frasco por nido el cual estaba debidamente etiquetado en papel vegetal el nombre del colector, fecha y hora, el número de la parcela y la muestra (p#m#). El trabajo de campo fue realizado por dos personas, una relleno el formulario de ODK y la otra colecto las hormigas. Por último pero no menos importante, los formularios fueron enviados a un servidor para ser evaluados.
+
+Culminado con la recolección de datos del campo, el siguiente paso fue realizar la identificación de cada individuo encontrado en cada nido. Para esto se utilizo una lupa, pinzas, porta objetos, alcohol al 80%, guía de identificación de AntWiki y llenar los formularios para identificación de ODK.
+
 
 # Resultados
 
@@ -57,12 +85,9 @@ Mis preguntas de investigación son las siguientes:
 
 # Agradecimientos
 
-# Información de soporte
-
-\ldots
 
 # *Script* reproducible
 
-\ldots
+
 
 # Referencias
