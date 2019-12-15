@@ -7,7 +7,7 @@ output:
     latex_engine: pdflatex
     template: svm-latex-ms.tex
     number_sections: true
-title:  Hormigas UASD
+title:  Descripción de Nidos de Hormigas UASD
 author:
 - name: Dahiana Guzmán Báez
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
@@ -59,15 +59,16 @@ Los nidos de hormigas y su modo de distribución en el espacio nos dan informaci
 
 *Área de Estudio*
 
-El trabajo se realizó en el campo de la Universidad Autonoma de Santo Domingo (UASD) (18º 27´ 40´´ N, 69º 55´ 02´´ W). Tiene un área aproximada de 375, 000 m². Limita al norte con la Av. José Contreras, al sur con la Av. Correa y Cidrón, al este con la Av. Santo Tomás de Aquino, y al oeste con la calle General Modesto Diaz. Posee una temperatura promedio anual de 25.7 ℃. Eligimos está área porque tiene un fácil acceso y por poseer diferentes tipos de sustratos o coberturas como herbaceos, dosel, construido, edificados, no edificado ni cubierto, entre otros. Además en esta área existe una gran diversidad de hormigas.
+El trabajo se realizó en el campo de la Universidad Autonoma de Santo Domingo (UASD) (18 27 40 N, 69 55 02 W). Tiene un área aproximada de 375, 000 m. Limita al norte con la Av. José Contreras, al sur con la Av. Correa y Cidrón, al este con la Av. Santo Tomás de Aquino, y al oeste con la calle General Modesto Diaz. Posee una temperatura promedio anual de 25.7 C. Eligimos está área porque tiene un fácil acceso y por poseer diferentes tipos de sustratos o coberturas como herbaceos, dosel, construido, edificados, no edificado ni cubierto, entre otros. Además en esta área existe una gran diversidad de hormigas.
 
-
+![](uasd.jpg)
 
 *Métodos*
+
 Se seleccionarion un total de 11 parcelas establecidas para el campo de la UASD con diferentes tipos de coberturas, construido, mobiliario, suelo, herbáceos, no edificado ni cubierto. Los muestreos fueron realizados desde el día 12 al 26 de octubre del año 2019. 
 
 
-Los materiales de campo fueron: frascos. alcohol etílico al 80%, pinceles de cerdas claras y confortable, papel vegetal para las etiquetas, chinográfo, dispositivo Android para llenar los formulario de ODK Collect. ODK es un conjuntos de herramientas de código libre que crea formularios para poder recoger los datos eb un dispositivo móvil y enviarlos a un servido.
+Los materiales de campo fueron: frascos, alcohol etílico al 80%, pinceles de cerdas claras, papel vegetal para las etiquetas, chinográfo para escribir, dispositivo Android para llenar los formulario de ODK Collect. ODK es un conjuntos de herramientas de código libre que crea formularios para poder recoger los datos en un dispositivo móvil y enviarlos a un servido.
 
 
 
@@ -75,10 +76,18 @@ Como se menciono anteriormente esta investigación se basó en la ecología de n
 
 En cada nido se colecto de 5 a 8 individuos, para hacerlo utilizamos un pincel humedicido con alcohol etílico al 80%, luego cada individuo de un mismo nido se deposito en un mismo frasco, es decir. Se utilizo un frasco por nido el cual estaba debidamente etiquetado en papel vegetal el nombre del colector, fecha y hora, el número de la parcela y la muestra (p#m#). El trabajo de campo fue realizado por dos personas, una relleno el formulario de ODK y la otra colecto las hormigas. Por último pero no menos importante, los formularios fueron enviados a un servidor para ser evaluados.
 
-Culminado con la recolección de datos del campo, el siguiente paso fue realizar la identificación de cada individuo encontrado en cada nido. Para esto se utilizo una lupa, pinzas, porta objetos, alcohol al 80%, guía de identificación de AntWiki y llenar los formularios para identificación de ODK.
+Culminado con la recolección de datos del campo, el siguiente paso fue realizar la identificación de cada individuo encontrado en cada nido. Para esto se utilizo una lupa de modelo AmScope 3.5X-180X Inspection Zoom Stereo Microscope +144-LED Light, pinzas, porta objetos, alcohol al 80%, guía de identificación de AntWiki y llenar los formularios para identificación de ODK.
 
 
 # Resultados
+Colocar imagenes de algunos de los generos encontrados
+
+
+
+
+
+(mapa('riqueza', filtusuario = 'dahianagb07'))
+
 
 
 
