@@ -11,7 +11,7 @@ title:  Descripción de Nidos de Hormigas UASD
 author:
 - name: Dahiana Guzmán Báez
   affiliation: Estudiante, Universidad Autónoma de Santo Domingo (UASD)
-abstract: "Mi resumen"
+abstract: 
 keywords: "Ecología, nidos"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 geometry: margin=1in
@@ -61,43 +61,121 @@ Los nidos de hormigas y su modo de distribución en el espacio nos dan informaci
 
 El trabajo se realizó en el campo de la Universidad Autonoma de Santo Domingo (UASD) (18 27 40 N, 69 55 02 W). Tiene un área aproximada de 375, 000 m. Limita al norte con la Av. José Contreras, al sur con la Av. Correa y Cidrón, al este con la Av. Santo Tomás de Aquino, y al oeste con la calle General Modesto Diaz. Posee una temperatura promedio anual de 25.7 C. Eligimos está área porque tiene un fácil acceso y por poseer diferentes tipos de sustratos o coberturas como herbaceos, dosel, construido, edificados, no edificado ni cubierto, entre otros. Además en esta área existe una gran diversidad de hormigas.
 
-![](uasd.jpg)
-
-*Métodos*
-
-Se seleccionarion un total de 11 parcelas establecidas para el campo de la UASD con diferentes tipos de coberturas, construido, mobiliario, suelo, herbáceos, no edificado ni cubierto. Los muestreos fueron realizados desde el día 12 al 26 de octubre del año 2019. 
 
 
-Los materiales de campo fueron: frascos, alcohol etílico al 80%, pinceles de cerdas claras, papel vegetal para las etiquetas, chinográfo para escribir, dispositivo Android para llenar los formulario de ODK Collect. ODK es un conjuntos de herramientas de código libre que crea formularios para poder recoger los datos en un dispositivo móvil y enviarlos a un servido.
 
+
+
+
+
+
+
+![Mapa de la Universidad Autonoma de Santo Domingo, imagen extraída de Google imagenes.](uasd.jpg)
+
+
+
+*Materiales y métodos*
+
+Se seleccionarion un total de 10 parcelas establecidas para el campo de la UASD con diferentes tipos de coberturas, construido, mobiliario, suelo, herbáceos, no edificado ni cubierto. Los muestreos fueron realizados desde el día 12 al 26 de octubre del año 2019.
+
+![Mapa de las parcelas estudiadas.](parcelas estudiadas.jpg)
+
+
+
+Entre los materiales que utilizamos estan: frascos plásticos, alcohol etílico al 80%, pinceles de cerdas claras, papel vegetal para las etiquetas, chinográfo para escribir, dispositivo Android para llenar los formulario de ODK Collect. ODK es un conjuntos de herramientas de código libre que crea formularios para poder recoger los datos en un dispositivo móvil y enviarlos a un servido.
 
 
 Como se menciono anteriormente esta investigación se basó en la ecología de nidos. Para realizar la coleccón de datos se hizo un censo detallado de nido en cada parcela, tomando datos dentro de la cobertura que le corresponde a la parcela elegida. Luego se toman las coordenas de cada nido, información ambiental y relación de flora asociada al nido. 
 
 En cada nido se colecto de 5 a 8 individuos, para hacerlo utilizamos un pincel humedicido con alcohol etílico al 80%, luego cada individuo de un mismo nido se deposito en un mismo frasco, es decir. Se utilizo un frasco por nido el cual estaba debidamente etiquetado en papel vegetal el nombre del colector, fecha y hora, el número de la parcela y la muestra (p#m#). El trabajo de campo fue realizado por dos personas, una relleno el formulario de ODK y la otra colecto las hormigas. Por último pero no menos importante, los formularios fueron enviados a un servidor para ser evaluados.
 
-Culminado con la recolección de datos del campo, el siguiente paso fue realizar la identificación de cada individuo encontrado en cada nido. Para esto se utilizo una lupa de modelo AmScope 3.5X-180X Inspection Zoom Stereo Microscope +144-LED Light, pinzas, porta objetos, alcohol al 80%, guía de identificación de AntWiki y llenar los formularios para identificación de ODK.
+Culminado con la recolección de datos del campo, el siguiente paso fue realizar la identificación de cada individuo encontrado en cada nido. Para esto se utilizo una lupa de modelo AmScope 3.5X-180X Inspection Zoom Stereo Microscope +144-LED Light, pinzas, porta objetos, alcohol al 80%, guía de identificación hasta género de hormigas utilizando la guía de AntWiki y llenar los formularios para identificación de ODK.
 
 
 # Resultados
-Colocar imagenes de algunos de los generos encontrados
+
+ 
+
+![Distancia a basura. Este mapa nos muestra la distancia a basura que estan los nidos de cada parcela. Los nidos que menos distantes esten de basura tienen mas diversidad, esto se debe a que pueden conseguir mas facil sus alimentos, entre otras cosas; por ejemplo en la parcela p42 la distancia a basura de los dos nidos encontrados fue de 1a5, por ende esta parcela tiene una diversidad moderada ya que se encontraron dos géneros diferente. Sin embargo, la parcela p78 no tuvo basura a la vista, por ende tiene una poca diversida ya que solo se encontro un solo género.](distancia a basura.jpg) 
+
+
+
+![Distancia a agua. Este mapa nos muestra la distancia a agua. El agua es indispensable para la mayoría de los seres vivos y las hormigas no son la excepción, pero sabemos que sus refugios son lejos del agua o si llueven encuentran un lugar seguro donde no esten expuestas. Por esta razón, en este estudio solo se encontraron dos parcela cerca de agua fue la p1 Y p10; los nidos encontrados en estas parcelas algunos no tenía agua a la vista y otros a una distancia de 6a9. Sin embargo, estas parcela tenían una diversidad alta, por ejemplo en la parcela p1 se encontraron dos géneros distintos y en la p10 3 géneros distintos.](distanciaagua.jpg)
+
+
+![Mapa de riquezaEn este mapa podemos observar la biodiversidad en cada parcela. Este mapa nos muestra que la riqueza de géneros no es homogenea, los patrones de diversidad pueden depender de varios factores, como el tamaño del hábitat, de la productividad, la frecuencia de las perturbaciones. En este estudio las parcelas mas diversas o mejor dicho con mayor riqueza son las p10 y p1, pero también se encontraron parcelas con muy baja diversidad como son las p27 y p78.](riqueza.jpg)
+
+
+
+![Mapa de sustrato. Este mapa nos muestra los diferentes sustratos que se estudiaron. El sustrato es una variable fundamental en la diversidad de individuos, ya que cada especie tiene su hábitat específico para desarrollarse con exito, sin embargo existen sustrato con mayor diversidad que otros, ya sea por tener mejor tasa de alimentos y ser menos propensos a perturbaciones. Es común que los suelos herbacios, no edificados ni cubiertos esten mas poblado que otros sustrato. Por ejemplo las parcelas p10 y p25 tiene el sustrato mencionado anteriormente y en estas parcelas existe una mayor diversidad de género que en los demás sustratos. ](sustrato.jpg)
+
+
+
+![En este mapa podemos observar la distancia en metros a que estan las vías de los nidos dentro de una parcela. Las parcelas que obtuvieron mayor diversidad de nidos estan a una distancia considerada de las vía o aseras  como por ejemplo las parcelas p10, p25 y p27 ya que están menos propensas a pertubaciones (ir a la figura 9).](distanciavias.jpg)
 
 
 
 
-
-(mapa('riqueza', filtusuario = 'dahianagb07'))
-
+![Tabla de los géneros encontrados. Esta tabla nos muestra los generos encontrados en cada parcela, como podemos observar existen dos parcelas exclusiva en la cuales solo se encontro un género en todos lo nidos estudiado que son el género Dorymyrmex y Pheidole, a diferencia de las demás parcelas que comparten mas de dos géneros diferentes.](generos por parcela.jpg)
 
 
+![Tabla de los géneros encontrados. En esta tabla podemos observar una “rareza”, ya que se encontro en la parcela p27 dos géneros diferentes en un mismo nido, esto solo ocurrió en esta parcela, en las demás cada nido encontrado estaba compuesto por individuos del mismo género.](similtud.jpg)
+
+
+![Gráfico de Biplot. El gráfico biblot explica la relación que existe entre los objetos dentro de de la muestra; en este caso los objetos son: géneros (representado con un punto rojo), sitios (representado con con un circulo) y variables (representado con un cuadrado). Además este gráfico consta de dos dimensiones, como podemos ver en el gráfico existe una extrecha relación entre el género Solenopsis y la varible tipo herbaseos, no edificado ni cubierto.](biplot.jpg)
+
+
+![Gráfico dendograma. Este gráfico muestra un anális Cluster, el cual funciona para agrupar elementos (o variables) tratando de lograr la máxima homogeneidad en cada grupo y la mayor diferencia entre los grupos. Por ejemplo en este gráfico podemos ver que las parcelas p25 y 27 estan a la misma altura por lo tanto forma un clado que a su vez esta en el mismo grupo del clado formado por las parcelas p1y p48, en general este grupo alcanza su máxima homegeneidad y es diferentes a los otros.](dendograma.jpg)
+
+
+
+![](grafico amarillo.jpg)
+
+Figura 13. 
+
+
+
+#Géneros encontrados en esta investigación
+Imagenes extraída de AntWikiHispaniola.
+
+![Imagen de Dorymyrmex sp.](dorymyrmex.jpg)
+
+
+
+![Imagen de Paratrechina sp.](paratrechina.jpg)
+
+
+
+![Imagen de Pheidole sp.](pheidole.jpg)
+
+
+![Imagen de Solenopsis sp.](solenopsis.jpg)
 
 
 # Discusión
+1- ¿Cuál es la distribución espacial entre los nidos edificado y pavimentado que superan los 5 metros de distancia?
+
+2- ¿Influye el transito de humanos en la diversidad de hormigas?
+
+3- ¿Existe diferencia significativa en la densidad de nidos entre distintos sustratos?
+
+4- ¿Qué tanto recambio de especies existe entre nidos de sustratos herbáceos o áreas contruidas?
+
+Es importante destacar que existe una amplia diferencia entre las parcelas situadas en edicaciones y las situadas en pavimentado; En los bordes de las edificaciones se encontraron muy pocos nidos, sin embargo, en las grietas del suelo pavimentado era muy común encontrar varios nidos, y más común si cerca existía un deposito de basura, además los nidos encontrados en pavimento superar una distancia de 5 metros de los nidos encontrados en edificaciones que casi nunca existía deposito de basura cerca. Dicho esto, se puede concluir que las parcelas que cuentan con almacenamiento de basura cerca de este es posible encontrar nidos y en su gran mayoría la parcela puede tener una gran diversidad de individuos.
+
+
+El transito de humanos o la distancia a vías son uno de los factores que mas influye en la diversidad de las hormigas. Por ejemplo en este estudio las parcelas que mas alejadas estuvieron de las vías o del flujo de personas se encontraron más nidos, ya que están menos propensas a perturbaciones y pueden andar en su hábitat libremente (ir a la figura 8).
+
+El sustrato es otro de los factores indispensable al momento de estudiar hormigas, el tipo de sustrato puede decirnos rapidamente la heterogeniedad que existe en una área. Como ejemplo de esto tenemos tenemos alquel
+
+
+
+
 
 # Agradecimientos
 
 
-# *Script* reproducible
+
 
 
 
