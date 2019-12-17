@@ -76,10 +76,11 @@ El trabajo se realizó en el campo de la Universidad Autonoma de Santo Domingo (
 
 *Materiales y métodos*
 
-Se seleccionarion un total de 10 parcelas establecidas para el campo de la UASD con diferentes tipos de coberturas, construido, mobiliario, suelo, herbáceos, no edificado ni cubierto. Los muestreos fueron realizados desde el día 12 al 26 de octubre del año 2019.
 
 ![Mapa de las parcelas estudiadas.](parcelas estudiadas.jpg)
 
+
+[Se seleccionarion un total de 10 parcelas establecidas para el campo de la UASD con diferentes tipos de coberturas, construido, mobiliario, suelo, herbáceos, no edificado ni cubierto. Los muestreos fueron realizados desde el día 12 al 26 de octubre del año 2019.
 
 
 Entre los materiales que utilizamos estan: frascos plásticos, alcohol etílico al 80%, pinceles de cerdas claras, papel vegetal para las etiquetas, chinográfo para escribir, dispositivo Android para llenar los formulario de ODK Collect. ODK es un conjuntos de herramientas de código libre que crea formularios para poder recoger los datos en un dispositivo móvil y enviarlos a un servido.
@@ -89,7 +90,7 @@ Como se menciono anteriormente esta investigación se basó en la ecología de n
 
 En cada nido se colecto de 5 a 8 individuos, para hacerlo utilizamos un pincel humedicido con alcohol etílico al 80%, luego cada individuo de un mismo nido se deposito en un mismo frasco, es decir. Se utilizo un frasco por nido el cual estaba debidamente etiquetado en papel vegetal el nombre del colector, fecha y hora, el número de la parcela y la muestra (p#m#). El trabajo de campo fue realizado por dos personas, una relleno el formulario de ODK y la otra colecto las hormigas. Por último pero no menos importante, los formularios fueron enviados a un servidor para ser evaluados.
 
-Culminado con la recolección de datos del campo, el siguiente paso fue realizar la identificación de cada individuo encontrado en cada nido. Para esto se utilizo una lupa de modelo AmScope 3.5X-180X Inspection Zoom Stereo Microscope +144-LED Light, pinzas, porta objetos, alcohol al 80%, guía de identificación hasta género de hormigas utilizando la guía de AntWiki y llenar los formularios para identificación de ODK.
+Culminado con la recolección de datos del campo, el siguiente paso fue realizar la identificación de cada individuo encontrado en cada nido. Para esto se utilizo una lupa de modelo AmScope 3.5X-180X Inspection Zoom Stereo Microscope +144-LED Light, pinzas, porta objetos, alcohol al 80%, guía de identificación hasta género de hormigas utilizando la guía de AntWiki y llenar los formularios para identificación de ODK.]
 
 
 # Resultados
@@ -129,44 +130,38 @@ Culminado con la recolección de datos del campo, el siguiente paso fue realizar
 
 
 
-![](grafico amarillo.jpg)
-
-Figura 13. 
+![Las curvas de acumulación de especies es una representación gráfica del número de especies presentes en el sitio de estudio, en este gráfico podemos ver que existe una relación directa entre las dos variables, ya que si una aumenta la otra aumenta en la misma proporción hasta llegar a un punto donde va rápdio y luego se estabiliza.](grafico amarillo.jpg)
 
 
 
-#Géneros encontrados en esta investigación
-Imagenes extraída de AntWikiHispaniola.
-
-![Imagen de Dorymyrmex sp.](dorymyrmex.jpg)
 
 
-
-![Imagen de Paratrechina sp.](paratrechina.jpg)
+![Imagen de Dorymyrmex sp. Una de las especies identificada en esta investigación](dorymyrmex.jpg)
 
 
 
-![Imagen de Pheidole sp.](pheidole.jpg)
+![Imagen de Paratrechina sp. Una de las especies identificada en esta investigación.](paratrechina.jpg)
 
 
-![Imagen de Solenopsis sp.](solenopsis.jpg)
+
+![Imagen de Pheidole sp. Una de las especies identificada en esta investigación.](pheidole.jpg)
 
 
-# Discusión
-1- ¿Cuál es la distribución espacial entre los nidos edificado y pavimentado que superan los 5 metros de distancia?
+![Imagen de Solenopsis sp. Una de las especies identificada en esta investigación](solenopsis.jpg)
+]
 
-2- ¿Influye el transito de humanos en la diversidad de hormigas?
-
-3- ¿Existe diferencia significativa en la densidad de nidos entre distintos sustratos?
-
-4- ¿Qué tanto recambio de especies existe entre nidos de sustratos herbáceos o áreas contruidas?
+#Discusión
 
 Es importante destacar que existe una amplia diferencia entre las parcelas situadas en edicaciones y las situadas en pavimentado; En los bordes de las edificaciones se encontraron muy pocos nidos, sin embargo, en las grietas del suelo pavimentado era muy común encontrar varios nidos, y más común si cerca existía un deposito de basura, además los nidos encontrados en pavimento superar una distancia de 5 metros de los nidos encontrados en edificaciones que casi nunca existía deposito de basura cerca. Dicho esto, se puede concluir que las parcelas que cuentan con almacenamiento de basura cerca de este es posible encontrar nidos y en su gran mayoría la parcela puede tener una gran diversidad de individuos.
 
-
 El transito de humanos o la distancia a vías son uno de los factores que mas influye en la diversidad de las hormigas. Por ejemplo en este estudio las parcelas que mas alejadas estuvieron de las vías o del flujo de personas se encontraron más nidos, ya que están menos propensas a perturbaciones y pueden andar en su hábitat libremente (ir a la figura 8).
 
-El sustrato es otro de los factores indispensable al momento de estudiar hormigas, el tipo de sustrato puede decirnos rapidamente la heterogeniedad que existe en una área. Como ejemplo de esto tenemos tenemos alquel
+El sustrato es otro de los factores indispensable al momento de estudiar hormigas, el tipo de sustrato puede decirnos rapidamente la heterogeniedad que existe en una área. Como ejemplo de esto tenemos el sustrato tipo herbáceos, en este estudio fue en el que más nidos se encontro y el que mayor diversidad de individuos represento. En pocas palabras los suelos herbácios presentan una densidad mayor que el sustrato pavimentado o edificado. Es importante destacar que no existe un gran recambio de especie según el sustrato, esto fue demostrado ya que se encontraron géneros iguales en sustratos diferentes.
+
+En este trabajo uno de los géneros más encontrado en los nidos fueron las especies del género Pheidole, presente en 5 parcelas, siguiendole a esta las especies del género Solenopsis presentes en 6 parcelas. En un estudio realizado en México la especie más encontrada fue del género Pheidole con un total de 51 individuos, presente en diferentes sustratos [@fernandez2001hormigas].
+
+
+]
 
 
 
@@ -175,7 +170,9 @@ El sustrato es otro de los factores indispensable al momento de estudiar hormiga
 # Agradecimientos
 
 
+Al profesor José Ramón Martinez Batlle, por impartir esta asignatura y brindarnos su apoyo incondicional para mí aprendizaje y el de mis compañeros.
 
+A mi compañero Enrique García, por ayudarme en la colecta de hormihgas.
 
 
 
